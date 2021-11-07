@@ -1,0 +1,33 @@
+#homePageContainer{
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+    max-width: 100% !important;
+    background-image: url(../../images/menlandingImage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0px;
+    background-position: center top;
+}
+
+#homePageBGImage{
+    width: inherit;
+}
+
+#HomePageDesc{
+    padding: 30px;
+    max-width: 450px;
+    background: rgba(58, 139, 205, 0.5);
+}
+
+#DescTitle{
+    text-align: left;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#DescContent{
+    text-align: left;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}

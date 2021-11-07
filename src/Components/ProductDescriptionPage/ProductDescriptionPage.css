@@ -1,0 +1,82 @@
+#PDPTitle{
+    text-align: left;
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#pdpImageDiv{
+    padding-bottom: 5%;
+}
+
+#pdpDescTitle{
+    float: left;
+    font-weight: bolder;
+    font-size: 17px;
+}
+
+#pdpDescPrice{
+    float: left;
+    font-weight: bolder;
+    color:  #3a8bcd;
+    font-size: 17px;
+    margin-top: -20px;
+}
+
+#pdpProductDesc{
+    text-align: left;
+    font-size: 15px;
+}
+
+#pdpDescCategory{
+    text-align: left;
+    width: 100%;
+    border-width: thin;
+    padding-top: 10px;
+    border-top: 1px solid #eee;
+}
+
+#pdpCategoryValues{
+    opacity: 0.5;
+}
+
+#pdpDescAvailable{
+    text-align: left;
+    color:  #3a8bcd;
+    font-weight: bold;
+    width: 100%;
+    border-width: thin;
+    padding-top: 10px;
+    border-top: 1px solid #eee;
+}
+
+#availableCountInputField{
+    width: 90px;
+}
+
+#pdpOrdernowButton{
+    width: 91px;
+    font-size: 13px;
+    position: relative;
+    margin-top: -9px;
+    padding-bottom: 5%;
+}
+
+#pdpQuantityText{
+    text-align: left;
+    font-size: 20px;
+    padding-top: 3%;
+}
+
+#pdpOrdernowButton{
+    padding-top: 3%;
+}
+
+#pdpOrderButton{
+    width: 100px;
+    font-size: 15px;
+    height: 55px;
+    /* padding-bottom: 30%; */
+    /* margin-bottom: 10%; */
+}

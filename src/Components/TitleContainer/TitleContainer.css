@@ -1,0 +1,15 @@
+#titleIcon{
+    align-items: center;
+    height: 20vh;
+}
+
+@media (max-width: 576px) {
+    #titleIcon{
+        height: 20vh;
+        margin-right: -60%;
+    }
+}
+
+#titleContainerDiv{
+    border-bottom: 1px solid #eee;
+}

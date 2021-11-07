@@ -1,0 +1,47 @@
+#SubscriptionContainer{
+    padding-left: 0%;
+    padding-right: 0%;
+    max-width: 100% !important;
+    background-color: #3a8bcd;
+}
+
+#SCtitle{
+    font-size: 24px;
+    color: white;
+    padding-top: 5%;
+    font-weight: bolder;
+}
+
+#SCdesc{
+    font-size: 20px;
+    color: white;
+    padding-top: 3%;
+    text-align: center;
+}
+
+#SCFormRow{
+    justify-content: space-evenly;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+}
+
+.mb-3{
+    margin-right: 0% !important;
+}
+
+.form-control{
+    line-height: 2.5 !important;
+}
+
+#SCFormButton{
+    border: 1px solid black;
+}
+
+#SCFormContainer{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    border: 1px solid black;
+}

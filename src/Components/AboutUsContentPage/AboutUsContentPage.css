@@ -1,0 +1,31 @@
+#AUCTitle{
+    text-align: left;
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#aboutUsImage{
+    height: 75vh;
+    padding-bottom: 5%;
+}
+
+#aboutUsContentPageContainer{
+    max-width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+
+#aboutUsText{
+    text-align: left;
+}
+
+#AUtitle{
+    font-weight: bold;
+}
+
+.abTextDiv{
+    padding-bottom: 10px;
+}

@@ -1,0 +1,33 @@
+#PCTitle{
+    text-align: left;
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.itemsDiv{
+    padding-bottom: 5% !important;
+    cursor: pointer;
+}
+
+.card{
+    width: 100% !important;
+}
+
+body {
+    text-align: center;
+  }
+  
+  .pagination-wrapper {
+    overflow-x:auto;
+  }
+  
+  .pagination {
+    justify-content: center;
+    margin:30px;
+  }
+  
+  .data-slice {
+    margin-top: 15px;
+  }
