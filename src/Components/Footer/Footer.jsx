@@ -21,10 +21,10 @@ function Footer({tabClicked}) {
         </div>
         <div className = "">
             <ButtonGroup className="mb-2 row" id = "FooterIcons">
-                <FontAwesomeIcon icon={faFacebook} className = "FooterIcon col-8 col-sm-8"/>
-                <FontAwesomeIcon icon={faTwitter} className = "FooterIcon col-8 col-sm-8"/>
-                <FontAwesomeIcon icon={faLinkedin} className = "FooterIcon col-8 col-sm-8"/>
-                <FontAwesomeIcon icon={faInstagram} className = "FooterIcon col-8 col-sm-8"/>
+                <FontAwesomeIcon icon={faFacebook} onClick={() => {window.location = 'https://www.facebook.com/sam.vignesh.395';}} className = "FooterIcon col-8 col-sm-8"/>
+                <FontAwesomeIcon icon={faTwitter}  onClick={() => {window.location = 'https://twitter.com/';}} className = "FooterIcon col-8 col-sm-8"/>
+                <FontAwesomeIcon icon={faLinkedin} onClick={() => {window.location = 'https://www.linkedin.com/in/vignesh-arulvel-7bb152176';}} className = "FooterIcon col-8 col-sm-8"/>
+                <FontAwesomeIcon icon={faInstagram} onClick={() => {window.location = 'https://www.instagram.com/vignesh_arulvel/';}} className = "FooterIcon col-8 col-sm-8"/>
             </ButtonGroup>
         </div>
         <div id = "FooterCopyrightDiv">
